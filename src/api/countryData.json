@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "population": 1380004385,
+    "capital": "New Delhi",
+    "interestingFact": "India is the world's largest democracy and home to the Taj Mahal."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "population": 123103479,
+    "capital": "Tokyo",
+    "interestingFact": "Japan has thousands of islands and is famous for Mount Fuji."
+  },
+  {
+    "id": 3,
+    "countryName": "France",
+    "population": 66548272,
+    "capital": "Paris",
+    "interestingFact": "The Eiffel Tower was originally built for the 1889 World's Fair."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "population": 212812405,
+    "capital": "Brasilia",
+    "interestingFact": "Brazil is home to a large part of the Amazon Rainforest."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "population": 27227096,
+    "capital": "Canberra",
+    "interestingFact": "Australia is home to unique animals like kangaroos and koalas."
+  },
+  {
+    "id": 6,
+    "countryName": "Canada",
+    "population": 40000000,
+    "capital": "Ottawa",
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Italy",
+    "population": 58926717,
+    "capital": "Rome",
+    "interestingFact": "Italy is home to the ancient Roman Colosseum."
+  },
+  {
+    "id": 8,
+    "countryName": "Egypt",
+    "population": 118365995,
+    "capital": "Cairo",
+    "interestingFact": "Egypt is famous for its ancient pyramids and the Great Sphinx."
+  },
+  {
+    "id": 9,
+    "countryName": "United States",
+    "population": 347275807,
+    "capital": "Washington, D.C.",
+    "interestingFact": "The United States has 50 states and is home to many famous national parks."
+  },
+  {
+    "id": 10,
+    "countryName": "United Kingdom",
+    "population": 69488900,
+    "capital": "London",
+    "interestingFact": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland."
+  }
+]
